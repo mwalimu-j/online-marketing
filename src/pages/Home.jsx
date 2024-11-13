@@ -68,7 +68,7 @@ const Home = () => {
                 "MyWebsite helped us achieve our goals with exceptional
                 services. Their team is highly skilled and professional."
               </p>
-              <p className="font-semibold">Jane Doe</p>
+              <p className="font-semibold">Dickens Omodi</p>
               <p className="text-gray-500">CEO, Company X</p>
             </div>
 
@@ -78,7 +78,7 @@ const Home = () => {
                 "Great experience! Highly recommend their services to anyone
                 looking for reliable and effective solutions."
               </p>
-              <p className="font-semibold">John Smith</p>
+              <p className="font-semibold">Mwalimu joshua</p>
               <p className="text-gray-500">Founder, Startup Y</p>
             </div>
           </div>
